@@ -1,0 +1,36 @@
+﻿body {
+    background-color: #c6c6ff;
+}
+
+header {
+    background-color: #B0E0E6;
+
+}
+h1 {
+    color: mediumpurple;
+}
+p {
+    color: darkblue;
+}
+
+
+ul{
+    color: mediumpurple;
+}
+li{
+    color: darkblue;
+}
+
+footer{
+    margin:20px;
+    border:20px;
+}
+
+form {
+    width: 300px; /* Defina a largura desejada do formulário */
+    margin: 0 auto; /* Centralize o formulário horizontalmente */
+    padding: 20px; /* Adicione um espaço interno para afastar os elementos da borda */
+    border: 1px solid #808080; 
+    border-radius: 5px; /* Arredonde as bordas para suavizar a aparência */
+    text-align: center; /* Centralize o texto dentro do formulário */
+}
